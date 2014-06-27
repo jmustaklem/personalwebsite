@@ -154,6 +154,12 @@ body {
 	margin-top: 30px;
 }
 
+.cover .fbIcon .facebookicon{
+	background: url('http://www.allianz-global-assistance.com/corporate/images/twitter-icon.png');
+	width: 20px;
+	height: 20px;
+}
+
 
 /*
  * Footer
@@ -162,10 +168,6 @@ body {
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
-}
-
-.mastfoot .social .fbIcon {
-  background: url('img/fbIcon1.png');
 }
 
 
