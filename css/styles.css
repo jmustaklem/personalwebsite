@@ -150,6 +150,10 @@ body {
   font-weight: bold;
 }
 
+.cover .lead {
+	margin-top: 30px;
+}
+
 
 /*
  * Footer
